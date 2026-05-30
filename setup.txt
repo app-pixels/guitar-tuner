@@ -1,0 +1,17 @@
+# Guitar Tuner — copy to SD card as /setup/setup.txt
+# (No WiFi needed)
+
+# Display brightness 0-255
+BRIGHTNESS = 200
+
+# Auto-off timeout in seconds (0 = disabled)
+TIMEOUT = 300
+
+# Default mode at boot: AUTO or MANUAL
+TUNER_MODE = "AUTO"
+
+# Mic gain 0-7 (ES8311 microphone_gain_set level)
+TUNER_MIC_GAIN = 5
+
+# In-tune tolerance in cents
+TUNER_CENTS_TOL = 3
