@@ -1,3 +1,5 @@
+> Part of [**app-pixels.com**](https://www.app-pixels.com) — browse + flash this app at [`/apps/guitar-tuner`](https://www.app-pixels.com/apps/guitar-tuner).
+
 # guitar-tuner
 
 **Guitar Tuner** · v1.0.0
