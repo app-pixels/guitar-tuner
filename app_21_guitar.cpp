@@ -302,7 +302,7 @@ static void initCodec() {
 }
 
 // ── App entry points ──────────────────────────────────────────────────────────
-void app21_setup(Arduino_SH8601 *passed_gfx) {
+void app21_setup(Arduino_OLED *passed_gfx) {
   pinMode(BOOT_PIN, INPUT_PULLUP);
 
   // PMU already initialised and configured by launcher.
